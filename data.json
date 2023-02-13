@@ -1,0 +1,1537 @@
+{
+    "name":"US Country Travel Data",
+    "author":"https://github.com/jakeslye",
+    "data":[
+       {
+          "name":"Antarctica",
+          "level":"2",
+          "threats":[
+             "Other"
+          ]
+       },
+       {
+          "name":"Andorra",
+          "level":"1",
+          "threats":[
+             
+          ]
+       },
+       {
+          "name":"Armenia",
+          "level":"2",
+          "threats":[
+             "Other"
+          ]
+       },
+       {
+          "name":"Australia",
+          "level":"1",
+          "threats":[
+             
+          ]
+       },
+       {
+          "name":"Algeria",
+          "level":"2",
+          "threats":[
+             "Kidnap and Hostage",
+             "Terrorism"
+          ]
+       },
+       {
+          "name":"Belgium",
+          "level":"2",
+          "threats":[
+             "Terrorism"
+          ]
+       },
+       {
+          "name":"Bahamas",
+          "level":"2",
+          "threats":[
+             "Crimes"
+          ]
+       },
+       {
+          "name":"BosniaandHerzegovina",
+          "level":"2",
+          "threats":[
+             "Other",
+             "Terrorism"
+          ]
+       },
+       {
+          "name":"Bolivia",
+          "level":"2",
+          "threats":[
+             "Civil Unrest",
+             "Crimes"
+          ]
+       },
+       {
+          "name":"BurkinaFaso",
+          "level":"4",
+          "threats":[
+             "Crimes",
+             "Terrorism",
+             "Kidnap and Hostage"
+          ]
+       },
+       {
+          "name":"CotedvIoire",
+          "level":"3",
+          "threats":[
+             "Crimes",
+             "Terrorism",
+             "Civil Unrest"
+          ]
+       },
+       {
+          "name":"Gambia",
+          "level":"1",
+          "threats":[
+             "Other"
+          ]
+       },
+       {
+          "name":"Azerbaijan",
+          "level":"2",
+          "threats":[
+             "Other",
+             "Terrorism"
+          ]
+       },
+       {
+          "name":"AntiguaandBarbuda",
+          "level":"1",
+          "threats":[
+             
+          ]
+       },
+       {
+          "name":"Austria",
+          "level":"1",
+          "threats":[
+             
+          ]
+       },
+       {
+          "name":"Bahrain",
+          "level":"2",
+          "threats":[
+             "Terrorism"
+          ]
+       },
+       {
+          "name":"Cambodia",
+          "level":"1",
+          "threats":[
+             "Other",
+             "Crimes"
+          ]
+       },
+       {
+          "name":"Argentina",
+          "level":"1",
+          "threats":[
+             
+          ]
+       },
+       {
+          "name":"Barbados",
+          "level":"1",
+          "threats":[
+             
+          ]
+       },
+       {
+          "name":"Brazil",
+          "level":"2",
+          "threats":[
+             "Crimes"
+          ]
+       },
+       {
+          "name":"SyrianArabRepublic",
+          "level":"4",
+          "threats":[
+             "Terrorism",
+             "Civil Unrest",
+             "Kidnap and Hostage",
+             "Other"
+          ]
+       },
+       {
+          "name":"Eswatini",
+          "level":"2",
+          "threats":[
+            "Crimes",
+            "Civil Unrest"
+          ]
+       },
+       {
+          "name":"Bhutan",
+          "level":"1",
+          "threats":[
+             
+          ]
+       },
+       {
+          "name":"CaboVerde",
+          "level":"1",
+          "threats":[
+             "Crimes"
+          ]
+       },
+       {
+          "name":"Cyprus",
+          "level":"1",
+          "threats":[
+             "Other"
+          ]
+       },
+       {
+          "name":"RepublicoftheCongo",
+          "level":"2",
+          "threats":[
+             "Crimes"
+          ]
+       },
+       {
+          "name":"Brunei",
+          "level":"1",
+          "threats":[
+             
+          ]
+       },
+       {
+          "name":"Belize",
+          "level":"2",
+          "threats":[
+             "Crimes"
+          ]
+       },
+       {
+          "name":"Denmark",
+          "level":"2",
+          "threats":[
+             "Terrorism"
+          ]
+       },
+       {
+          "name":"Dominica",
+          "level":"1",
+          "threats":[
+             
+          ]
+       },
+       {
+          "name":"Comoros",
+          "level":"1",
+          "threats":[
+             
+          ]
+       },
+       {
+          "name":"Germany",
+          "level":"2",
+          "threats":[
+             "Terrorism"
+          ]
+       },
+       {
+          "name":"Finland",
+          "level":"1",
+          "threats":[
+             
+          ]
+       },
+       {
+          "name":"Grenada",
+          "level":"1",
+          "threats":[
+             
+          ]
+       },
+       {
+          "name":"Benin",
+          "level":"2",
+          "threats":[
+             "Other",
+             "Kidnap and Hostage",
+             "Terrorism",
+             "Crimes"
+          ]
+       },
+       {
+          "name":"Estonia",
+          "level":"1",
+          "threats":[
+             
+          ]
+       },
+       {
+          "name":"Fiji",
+          "level":"1",
+          "threats":[
+             
+          ]
+       },
+       {
+          "name":"Chile",
+          "level":"2",
+          "threats":[
+             "Civil Unrest"
+          ]
+       },
+       {
+          "name":"Burundi",
+          "level":"3",
+          "threats":[
+             "Other",
+             "Health",
+             "Crimes"
+          ]
+       },
+       {
+          "name":"Angola",
+          "level":"1",
+          "threats":[
+             "Kidnap and Hostage",
+             "Crimes"
+          ]
+       },
+       {
+          "name":"Albania",
+          "level":"2",
+          "threats":[
+             "Crimes"
+          ]
+       },
+       {
+          "name":"Afghanistan",
+          "level":"4",
+          "threats":[
+             "Other",
+             "Kidnap and Hostage",
+             "Civil Unrest",
+             "Terrorism",
+             "Crimes"
+          ]
+       },
+       {
+          "name":"Canada",
+          "level":"1",
+          "threats":[
+             
+          ]
+       },
+       {
+          "name":"ElSalvador",
+          "level":"3",
+          "threats":[
+             "Crimes"
+          ]
+       },
+       {
+          "name":"Djibouti",
+          "level":"2",
+          "threats":[
+             "Terrorism",
+             "Crimes"
+          ]
+       },
+       {
+          "name":"Eritrea",
+          "level":"2",
+          "threats":[
+             "Other",
+             "Wrongful Detention"
+          ]
+       },
+       {
+          "name":"Gabon",
+          "level":"1",
+          "threats":[
+             "Crimes"
+          ]
+       },
+       {
+          "name":"Bangladesh",
+          "level":"2",
+          "threats":[
+             "Kidnap and Hostage",
+             "Terrorism",
+             "Crimes"
+          ]
+       },
+       {
+          "name":"Botswana",
+          "level":"1",
+          "threats":[
+             
+          ]
+       },
+       {
+          "name":"Guyana",
+          "level":"3",
+          "threats":[
+             "Crimes"
+          ]
+       },
+       {
+          "name":"Belarus",
+          "level":"4",
+          "threats":[
+             "Other",
+             "Kidnap and Hostage",
+             "Civil Unrest",
+             "Terrorism"
+          ]
+       },
+       {
+          "name":"Bulgaria",
+          "level":"1",
+          "threats":[
+             
+          ]
+       },
+       {
+          "name":"CostaRica",
+          "level":"2",
+          "threats":[
+             "Crimes"
+          ]
+       },
+       {
+          "name":"Cuba",
+          "level":"2",
+          "threats":[
+             "Crimes"
+          ]
+       },
+       {
+          "name":"Egypt",
+          "level":"3",
+          "threats":[
+             "Other",
+             "Terrorism"
+          ]
+       },
+       {
+          "name":"Ethiopia",
+          "level":"3",
+          "threats":[
+             "Other",
+             "Kidnap and Hostage",
+             "Civil Unrest",
+             "Terrorism",
+             "Crimes"
+          ]
+       },
+       {
+          "name":"Italy",
+          "level":"2",
+          "threats":[
+             "Terrorism"
+          ]
+       },
+       {
+          "name":"Ghana",
+          "level":"2",
+          "threats":[
+             "Civil Unrest",
+             "Crimes"
+          ]
+       },
+       {
+          "name":"Guatemala",
+          "level":"3",
+          "threats":[
+             "Crimes"
+          ]
+       },
+       {
+          "name":"Georgia",
+          "level":"1",
+          "threats":[
+             "Other",
+             "Civil Unrest",
+             "Crimes"
+          ]
+       },
+       {
+          "name":"France",
+          "level":"2",
+          "threats":[
+             "Civil Unrest",
+             "Terrorism"
+          ]
+       },
+       {
+          "name":"Moldova",
+          "level":"2",
+          "threats":[
+             
+          ]
+       },
+       {
+          "name":"Mauritius",
+          "level":"1",
+          "threats":[
+             
+          ]
+       },
+       {
+          "name":"MarshallIslands",
+          "level":"3",
+          "threats":[
+             "Health"
+          ]
+       },
+       {
+          "name":"China",
+          "level":"3",
+          "threats":[
+             "Other",
+             "Wrongful Detention",
+             "Health"
+          ]
+       },
+       {
+          "name":"Lesotho",
+          "level":"1",
+          "threats":[
+             
+          ]
+       },
+       {
+          "name":"Luxembourg",
+          "level":"1",
+          "threats":[
+             
+          ]
+       },
+       {
+          "name":"Malta",
+          "level":"1",
+          "threats":[
+             
+          ]
+       },
+       {
+          "name":"Lithuania",
+          "level":"1",
+          "threats":[
+             
+          ]
+       },
+       {
+          "name":"Micronesia",
+          "level":"3",
+          "threats":[
+             "Health"
+          ]
+       },
+       {
+          "name":"Netherlands",
+          "level":"2",
+          "threats":[
+             "Terrorism"
+          ]
+       },
+       {
+          "name":"Madagascar",
+          "level":"2",
+          "threats":[
+             "Civil Unrest",
+             "Crimes"
+          ]
+       },
+       {
+          "name":"Hungary",
+          "level":"1",
+          "threats":[
+             
+          ]
+       },
+       {
+          "name":"Kiribati",
+          "level":"3",
+          "threats":[
+             "Health"
+          ]
+       },
+       {
+          "name":"Montenegro",
+          "level":"1",
+          "threats":[
+             
+          ]
+       },
+       {
+          "name":"Jamaica",
+          "level":"3",
+          "threats":[
+             "Crimes"
+          ]
+       },
+       {
+          "name":"Macedonia",
+          "level":"1",
+          "threats":[
+             
+          ]
+       },
+       {
+          "name":"Mauritania",
+          "level":"3",
+          "threats":[
+             "Terrorism",
+             "Crimes"
+          ]
+       },
+       {
+          "name":"CentralAfricanRepublic",
+          "level":"4",
+          "threats":[
+             "Other",
+             "Kidnap and Hostage",
+             "Event",
+             "Civil Unrest",
+             "Crimes"
+          ]
+       },
+       {
+          "name":"Kazakhstan",
+          "level":"2",
+          "threats":[
+             "Civil Unrest"
+          ]
+       },
+       {
+          "name":"Honduras",
+          "level":"3",
+          "threats":[
+             "Crimes"
+          ]
+       },
+       {
+          "name":"Iceland",
+          "level":"1",
+          "threats":[
+             
+          ]
+       },
+       {
+          "name":"Timor-Leste",
+          "level":"2",
+          "threats":[
+             "Civil Unrest",
+             "Crimes"
+          ]
+       },
+       {
+          "name":"Liechtenstein",
+          "level":"1",
+          "threats":[
+             
+          ]
+       },
+       {
+          "name":"Libya",
+          "level":"4",
+          "threats":[
+             "Other",
+             "Kidnap and Hostage",
+             "Civil Unrest",
+             "Terrorism",
+             "Crimes"
+          ]
+       },
+       {
+          "name":"Chad",
+          "level":"3",
+          "threats":[
+             "Other",
+             "Kidnap and Hostage",
+             "Civil Unrest",
+             "Terrorism",
+             "Crimes"
+          ]
+       },
+       {
+          "name":"CzechRepublic",
+          "level":"1",
+          "threats":[
+             
+          ]
+       },
+       {
+          "name":"Ireland",
+          "level":"1",
+          "threats":[
+             
+          ]
+       },
+       {
+          "name":"Greece",
+          "level":"1",
+          "threats":[
+             
+          ]
+       },
+       {
+          "name":"Liberia",
+          "level":"2",
+          "threats":[
+             "Civil Unrest",
+             "Crimes"
+          ]
+       },
+       {
+          "name":"Maldives",
+          "level":"2",
+          "threats":[
+             "Terrorism"
+          ]
+       },
+       {
+          "name":"Burma",
+          "level":"4",
+          "threats":[
+             "Other",
+             "Wrongful Detention",
+             "Health",
+             "Civil Unrest"
+          ]
+       },
+       {
+          "name":"Mongolia",
+          "level":"1",
+          "threats":[
+             
+          ]
+       },
+       {
+          "name":"Mozambique",
+          "level":"2",
+          "threats":[
+             "Health",
+             "Terrorism",
+             "Crimes"
+          ]
+       },
+       {
+          "name":"Kosovo",
+          "level":"2",
+          "threats":[
+             "Civil Unrest",
+             "Terrorism"
+          ]
+       },
+       {
+          "name":"DominicanRepublic",
+          "level":"2",
+          "threats":[
+             "Crimes"
+          ]
+       },
+       {
+          "name":"SouthKorea",
+          "level":"1",
+          "threats":[
+             
+          ]
+       },
+       {
+          "name":"Laos",
+          "level":"2",
+          "threats":[
+             "Other",
+             "Civil Unrest",
+             "Crimes"
+          ]
+       },
+       {
+          "name":"Malawi",
+          "level":"2",
+          "threats":[
+             "Crimes"
+          ]
+       },
+       {
+          "name":"Kyrgyzstan",
+          "level":"1",
+          "threats":[
+             "Other"
+          ]
+       },
+       {
+          "name":"Kuwait",
+          "level":"1",
+          "threats":[
+             "Other",
+             "Crimes"
+          ]
+       },
+       {
+          "name":"Guinea",
+          "level":"2",
+          "threats":[
+             "Civil Unrest"
+          ]
+       },
+       {
+          "name":"Iraq",
+          "level":"4",
+          "threats":[
+             "Other",
+             "Kidnap and Hostage",
+             "Civil Unrest",
+             "Terrorism"
+          ]
+       },
+       {
+          "name":"Haiti",
+          "level":"4",
+          "threats":[
+             "Kidnap and Hostage",
+             "Civil Unrest",
+             "Crimes"
+          ]
+       },
+       {
+          "name":"Kenya",
+          "level":"2",
+          "threats":[
+             "Kidnap and Hostage",
+             "Civil Unrest",
+             "Terrorism",
+             "Crimes"
+          ]
+       },
+       {
+          "name":"EquatorialGuinea",
+          "level":"1",
+          "threats":[
+             
+          ]
+       },
+       {
+          "name":"Nauru",
+          "level":"1",
+          "threats":[
+             "Health"
+          ]
+       },
+       {
+          "name":"Colombia",
+          "level":"3",
+          "threats":[
+             "Kidnap and Hostage",
+             "Civil Unrest",
+             "Terrorism",
+             "Crimes"
+          ]
+       },
+       {
+          "name":"Croatia",
+          "level":"1",
+          "threats":[
+             
+          ]
+       },
+       {
+          "name":"Malaysia",
+          "level":"1",
+          "threats":[
+             "Kidnap and Hostage"
+          ]
+       },
+       {
+          "name":"DemocraticRepublicoftheCongoDRC",
+          "level":"3",
+          "threats":[
+             "Other",
+             "Kidnap and Hostage",
+             "Civil Unrest",
+             "Terrorism",
+             "Crimes"
+          ]
+       },
+       {
+          "name":"Namibia",
+          "level":"1",
+          "threats":[
+             
+          ]
+       },
+       {
+          "name":"Nicaragua",
+          "level":"3",
+          "threats":[
+             "Other",
+             "Wrongful Detention",
+             "Health",
+             "Crimes"
+          ]
+       },
+       {
+          "name":"Lebanon",
+          "level":"3",
+          "threats":[
+             "Other",
+             "Kidnap and Hostage",
+             "Civil Unrest",
+             "Terrorism",
+             "Crimes"
+          ]
+       },
+       {
+          "name":"Iran",
+          "level":"4",
+          "threats":[
+             "Other",
+             "Wrongful Detention",
+             "Kidnap and Hostage",
+             "Civil Unrest"
+          ]
+       },
+       {
+          "name":"Morocco",
+          "level":"2",
+          "threats":[
+             "Terrorism"
+          ]
+       },
+       {
+          "name":"Indonesia",
+          "level":"2",
+          "threats":[
+             "Disaster",
+             "Civil Unrest",
+             "Terrorism"
+          ]
+       },
+       {
+          "name":"Japan",
+          "level":"1",
+          "threats":[
+             
+          ]
+       },
+       {
+          "name":"Ecuador",
+          "level":"2",
+          "threats":[
+             "Civil Unrest",
+             "Crimes"
+          ]
+       },
+       {
+          "name":"DemocraticRepublicoftheCongoDRC",
+          "level":"3",
+          "threats":[
+             "Other",
+             "Kidnap and Hostage",
+             "Civil Unrest",
+             "Terrorism",
+             "Crimes"
+          ]
+       },
+       {
+          "name":"Mali",
+          "level":"4",
+          "threats":[
+             "Kidnap and Hostage",
+             "Terrorism",
+             "Crimes"
+          ]
+       },
+       {
+          "name":"Paraguay",
+          "level":"1",
+          "threats":[
+             "Crimes"
+          ]
+       },
+       {
+          "name":"Latvia",
+          "level":"1",
+          "threats":[
+             
+          ]
+       },
+       {
+          "name":"Guinea-Bissau",
+          "level":"3",
+          "threats":[
+             "Civil Unrest",
+             "Crimes"
+          ]
+       },
+       {
+          "name":"Jordan",
+          "level":"2",
+          "threats":[
+             "Other",
+             "Terrorism"
+          ]
+       },
+       {
+          "name":"Nepal",
+          "level":"2",
+          "threats":[
+             "Event"
+          ]
+       },
+       {
+          "name":"Qatar",
+          "level":"1",
+          "threats":[
+             
+          ]
+       },
+       {
+          "name":"NewZealand",
+          "level":"1",
+          "threats":[
+             
+          ]
+       },
+       {
+          "name":"Oman",
+          "level":"2",
+          "threats":[
+             "Other",
+             "Terrorism"
+          ]
+       },
+       {
+          "name":"Panama",
+          "level":"2",
+          "threats":[
+             "Crimes"
+          ]
+       },
+       {
+          "name":"Niger",
+          "level":"3",
+          "threats":[
+             "Kidnap and Hostage",
+             "Terrorism",
+             "Crimes"
+          ]
+       },
+       {
+          "name":"Portugal",
+          "level":"1",
+          "threats":[
+             
+          ]
+       },
+       {
+          "name":"Cameroon",
+          "level":"2",
+          "threats":[
+             "Other",
+             "Kidnap and Hostage",
+             "Terrorism",
+             "Crimes"
+          ]
+       },
+       {
+          "name":"Pakistan",
+          "level":"3",
+          "threats":[
+             "Other",
+             "Kidnap and Hostage",
+             "Terrorism"
+          ]
+       },
+       {
+          "name":"Norway",
+          "level":"1",
+          "threats":[
+             
+          ]
+       },
+       {
+          "name":"Nigeria",
+          "level":"3",
+          "threats":[
+             "Other",
+             "Kidnap and Hostage",
+             "Civil Unrest",
+             "Terrorism",
+             "Crimes"
+          ]
+       },
+       {
+          "name":"SaintLucia",
+          "level":"1",
+          "threats":[
+             
+          ]
+       },
+       {
+          "name":"Palau",
+          "level":"1",
+          "threats":[
+             
+          ]
+       },
+       {
+          "name":"SaintKittsandNevis",
+          "level":"1",
+          "threats":[
+             
+          ]
+       },
+       {
+          "name":"SaoTomeandPrincipe",
+          "level":"1",
+          "threats":[
+             
+          ]
+       },
+       {
+          "name":"SaintVincentandtheGrenadines",
+          "level":"1",
+          "threats":[
+             
+          ]
+       },
+       {
+          "name":"Romania",
+          "level":"1",
+          "threats":[
+             
+          ]
+       },
+       {
+          "name":"India",
+          "level":"2",
+          "threats":[
+             "Other",
+             "Civil Unrest",
+             "Terrorism",
+             "Crimes"
+          ]
+       },
+       {
+          "name":"Samoa",
+          "level":"1",
+          "threats":[
+             
+          ]
+       },
+       {
+          "name":"Philippines",
+          "level":"2",
+          "threats":[
+             "Kidnap and Hostage",
+             "Civil Unrest",
+             "Terrorism",
+             "Crimes"
+          ]
+       },
+       {
+          "name":"PapuaNewGuinea",
+          "level":"3",
+          "threats":[
+             "Other",
+             "Event",
+             "Civil Unrest",
+             "Crimes"
+          ]
+       },
+       {
+          "name":"Peru",
+          "level":"3",
+          "threats":[
+             "Civil Unrest",
+             "Terrorism",
+             "Crimes"
+          ]
+       },
+       {
+          "name":"Poland",
+          "level":"1",
+          "threats":[
+             
+          ]
+       },
+       {
+          "name":"Rwanda",
+          "level":"1",
+          "threats":[
+             "Other"
+          ]
+       },
+       {
+          "name":"SierraLeone",
+          "level":"2",
+          "threats":[
+             "Civil Unrest",
+             "Crimes"
+          ]
+       },
+       {
+          "name":"Seychelles",
+          "level":"1",
+          "threats":[
+             
+          ]
+       },
+       {
+          "name":"Suriname",
+          "level":"1",
+          "threats":[
+             
+          ]
+       },
+       {
+          "name":"Switzerland",
+          "level":"1",
+          "threats":[
+             
+          ]
+       },
+       {
+          "name":"TrinidadandTobago",
+          "level":"3",
+          "threats":[
+             "Kidnap and Hostage",
+             "Terrorism",
+             "Crimes"
+          ]
+       },
+       {
+          "name":"Senegal",
+          "level":"1",
+          "threats":[
+             "Other",
+             "Crimes"
+          ]
+       },
+       {
+          "name":"Tonga",
+          "level":"1",
+          "threats":[
+             
+          ]
+       },
+       {
+          "name":"Sweden",
+          "level":"1",
+          "threats":[
+             
+          ]
+       },
+       {
+          "name":"Tuvalu",
+          "level":"3",
+          "threats":[
+             "Health"
+          ]
+       },
+       {
+          "name":"Singapore",
+          "level":"1",
+          "threats":[
+             
+          ]
+       },
+       {
+          "name":"Turkmenistan",
+          "level":"2",
+          "threats":[
+             "Other"
+          ]
+       },
+       {
+          "name":"Mexico",
+          "level":" ",
+          "threats":[
+             "Kidnap and Hostage",
+             "Crimes"
+          ]
+       },
+       {
+          "name":"SaudiArabia",
+          "level":"3",
+          "threats":[
+             "Other",
+             "Terrorism"
+          ]
+       },
+       {
+          "name":"Slovenia",
+          "level":"1",
+          "threats":[
+             
+          ]
+       },
+       {
+          "name":"Taiwan",
+          "level":"1",
+          "threats":[
+             
+          ]
+       },
+       {
+          "name":"Tajikistan",
+          "level":"2",
+          "threats":[
+             "Terrorism"
+          ]
+       },
+       {
+          "name":"Uzbekistan",
+          "level":"1",
+          "threats":[
+             
+          ]
+       },
+       {
+          "name":"SriLanka",
+          "level":"2",
+          "threats":[
+             "Other",
+             "Civil Unrest",
+             "Terrorism"
+          ]
+       },
+       {
+          "name":"UnitedKingdom",
+          "level":"2",
+          "threats":[
+             "Terrorism"
+          ]
+       },
+       {
+          "name":"Yemen",
+          "level":"4",
+          "threats":[
+             "Other",
+             "Kidnap and Hostage",
+             "Health",
+             "Civil Unrest",
+             "Terrorism"
+          ]
+       },
+       {
+          "name":"Tunisia",
+          "level":"2",
+          "threats":[
+             "Other",
+             "Terrorism"
+          ]
+       },
+       {
+          "name":"SouthAfrica",
+          "level":"2",
+          "threats":[
+             "Civil Unrest",
+             "Crimes"
+          ]
+       },
+       {
+          "name":"Tanzania",
+          "level":"2",
+          "threats":[
+             "Other",
+             "Terrorism",
+             "Crimes"
+          ]
+       },
+       {
+          "name":"Vanuatu",
+          "level":"1",
+          "threats":[
+             "Health"
+          ]
+       },
+       {
+          "name":"Serbia",
+          "level":"2",
+          "threats":[
+             "Crimes"
+          ]
+       },
+       {
+          "name":"SolomonIslands",
+          "level":"2",
+          "threats":[
+             "Health"
+          ]
+       },
+       {
+          "name":"Uruguay",
+          "level":"2",
+          "threats":[
+             "Crimes"
+          ]
+       },
+       {
+          "name":"Slovakia",
+          "level":"1",
+          "threats":[
+             
+          ]
+       },
+       {
+          "name":"RussianFederation",
+          "level":"4",
+          "threats":[
+             "Other",
+             "Wrongful Detention",
+             "Kidnap and Hostage",
+             "Health",
+             "Civil Unrest",
+             "Terrorism"
+          ]
+       },
+       {
+          "name":"Turkey",
+          "level":"2",
+          "threats":[
+             "Other",
+             "Terrorism"
+          ]
+       },
+       {
+          "name":"Vietnam",
+          "level":"1",
+          "threats":[
+             
+          ]
+       },
+       {
+          "name":"Spain",
+          "level":"2",
+          "threats":[
+             "Civil Unrest",
+             "Terrorism"
+          ]
+       },
+       {
+          "name":"Thailand",
+          "level":"1",
+          "threats":[
+             "Civil Unrest"
+          ]
+       },
+       {
+          "name":"Somalia",
+          "level":"4",
+          "threats":[
+             "Other",
+             "Kidnap and Hostage",
+             "Health",
+             "Civil Unrest",
+             "Terrorism",
+             "Crimes"
+          ]
+       },
+       {
+          "name":"Zambia",
+          "level":"1",
+          "threats":[
+             
+          ]
+       },
+       {
+          "name":"Ukraine",
+          "level":"4",
+          "threats":[
+             "Other",
+             "Civil Unrest",
+             "Crimes"
+          ]
+       },
+       {
+          "name":"Venezuela",
+          "level":"4",
+          "threats":[
+             "Other",
+             "Wrongful Detention",
+             "Kidnap and Hostage",
+             "Health",
+             "Civil Unrest",
+             "Terrorism",
+             "Crimes"
+          ]
+       },
+       {
+          "name":"SouthSudan",
+          "level":"4",
+          "threats":[
+             "Other",
+             "Kidnap and Hostage",
+             "Crimes"
+          ]
+       },
+       {
+          "name":"Zimbabw",
+          "level":"2",
+          "threats":[
+             "Crimes"
+          ]
+       },
+       {
+          "name":"Uganda",
+          "level":"3",
+          "threats":[
+             "Terrorism",
+             "Crimes"
+          ]
+       },
+       {
+          "name":"Sudan",
+          "level":"4",
+          "threats":[
+             "Other",
+             "Kidnap and Hostage",
+             "Civil Unrest",
+             "Terrorism",
+             "Crimes"
+          ]
+       },
+       {
+          "name":"Togo",
+          "level":"1",
+          "threats":[
+             "Kidnap and Hostage",
+             "Civil Unrest",
+             "Terrorism"
+          ]
+       },
+       {
+          "name":"UnitedArabEmirates",
+          "level":"3",
+          "threats":[
+             "Other"
+          ]
+       },
+       {
+          "name":"Monaco",
+          "level":"2",
+          "threats":[
+             "Civil Unrest",
+             "Terrorism"
+          ]
+       },
+       {
+          "name":"Israel",
+          "level":" ",
+          "threats":[
+             "Other",
+             "Civil Unrest",
+             "Terrorism"
+          ]
+       }
+    ]
+ }
