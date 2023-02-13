@@ -1,5 +1,5 @@
 # travel.state.gov Scraped Data
-Data scraped from the United States travel recommendations. 194 countries. This list excludes the U.S. and Vadican City becuase the website does not have data on these countries, however is does include Antarctica.
+Data scraped from the United States travel recommendations. 194 countries. This list excludes the U.S. and Vadican City becuase the website does not have data on these countries, however is does include Antarctica. (This list is not in alphabetical order)
 
 ### Average Threat Level: 1.92
 
